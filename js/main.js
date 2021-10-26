@@ -304,4 +304,4 @@ function explosao3(amigoX, amigoY) {
 }
 
 
-} // Fim Da Função Start
+} // Fim Da Função Start do Game

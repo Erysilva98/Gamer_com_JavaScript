@@ -35,7 +35,7 @@
     - Finalizando o dia ás 21h
     * ----------------------------------------------------*
 
-#### Crinado as Regras de Posicionamento após a Colisão
+#### Criando as Regras de Posicionamento após a Colisão
     - 25/10/2021
     - Ínicio ás 16h22m
     - Aula #15 Iniciada
@@ -51,4 +51,6 @@
     * ------------------------------------------------------- *
 
 #### 
+    - 
+    -
 
