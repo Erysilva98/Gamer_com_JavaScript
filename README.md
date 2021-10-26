@@ -35,3 +35,20 @@
     - Finalizando o dia ás 21h
     * ----------------------------------------------------*
 
+#### Crinado as Regras de Posicionamento após a Colisão
+    - 25/10/2021
+    - Ínicio ás 16h22m
+    - Aula #15 Iniciada
+    - Encontrado erro de Reposicionamento de Inimigo.
+    - Obs: revisão do Código
+    - Pausa ás 17h35m
+    - Retornando ás 20h55m
+    - Trabalhando na correção e revisão do código
+    - Correção realizada - 22h15m
+    - Aula #15 e #16 Finalizada
+    - Regras de Colisão concluída
+    - Finalizando o dia ás 23h
+    * ------------------------------------------------------- *
+
+#### 
+
