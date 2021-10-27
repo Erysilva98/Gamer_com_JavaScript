@@ -50,7 +50,19 @@
     - Finalizando o dia ás 23h
     * ------------------------------------------------------- *
 
-#### 
-    - 
-    -
+#### Criando Exibição de Informações de Usúario
+    - 26/10/2021
+    - Ínicio ás 20h30m
+    - Aula #17 Iniciada
+    - Criada Informações de Pontuação
+    - Criada Barra de Enegiar
+    - Nivel de Dificuldade de Inimigo aumenta após abate
+    - Adicionando Sons
+    - Energia de combate
+    - Game Over adicionado
+    - Função de Reniciar
+    - Aula #17 á #22 Conluída
+    - Aulas Finalizadas ás 21h30m
+    - Entregando Projeto ás 22h45m
+    * ----------------------------------------------------------- *
 
