@@ -1,6 +1,6 @@
 # Game_com_JavaScript
     Construindo um jogo de naves
-    Projeto do BootCamp da Digital Inovation One
+    Projeto do BootCamp da Digital Innovation One
     JavaScript Game Developer
 
 #### Início do game
